@@ -1,6 +1,6 @@
 # Notes on the Rhetorical Figures of Speech
 
-From **_The Elements of Eloquence: Secrets of the Perfect Turn of Phrase_ by Mark Forsyth**
+From **_[The Elements of Eloquence: Secrets of the Perfect Turn of Phrase](http://amzn.to/29sSACf)_ by Mark Forsyth** 
 
 1. **Alliteration**
 
@@ -266,7 +266,7 @@ From **_The Elements of Eloquence: Secrets of the Perfect Turn of Phrase_ by Mar
     - Dactyl: TUM-te-ty
 
     When there is an even number of feet rhyming is important.
-    With an odd number of feet people naturally add a pause.
+    With an odd number of feet people naturally add a pause so rhyme is less important.
 
 25. **Paradox**
 
@@ -383,4 +383,72 @@ From **_The Elements of Eloquence: Secrets of the Perfect Turn of Phrase_ by Mar
 
 36. **Hyperbole**
 
+    Exaggeration.
+
+37. **Adynaton**
+
+    a figure of speech in the form of hyperbole taken to such extreme lengths as to insinuate a complete impossibility
+
+    ```
+    How hard it is for those who are wealthy to enter the kingdom of God! 
+    For it is easier for a camel to go through the eye of a needle than 
+    for a rich man to enter the kingdom of God.
+    ```
+
+38. **Prolepsis**
+
+    Using a pronoun before using the noun it refers to. Best for dramatic opening sentences.
+
+    ```
+    They fuck you up, your mum and dad. 
+    They may not mean to, but they do.
+    ```
+
+    ```
+    Nobody heard him, the dead man, But still he lay moaning;
+    ```
+
+39. **Congeries**
+
+    Lists.
+
+    ```
+    The cloud-capp’d towers, the gorgeous palaces, 
+    The solemn temples, the great globe itself
+    ```
+
+40. **Scesis Onomaton**
+
+    A sentence with no verb.
+
+    ```
+    Space: the final frontier.
+    ```
+
+    ```
+    Implacable November weather.
+    ```
+
+    ```
+    Sunset and evening star, 
+    And one clear call for me!
+    ```
+
+41. **Anaphora**
+
+    Starting each sentence with the same word.
+    
+    ```
+    We shall not flag or fail. 
+    We shall go on to the end. 
+    We shall fight in France, 
+    We shall fight on the seas and oceans [North and Atlantic], 
+    We shall fight with growing confidence and growing strength in the air, 
+    We shall defend our island, whatever the cost may be, 
+    We shall fight on the beaches [of Britain], 
+    We shall fight on the landing grounds [of Britain], 
+    We shall fight in the fields [of Kent] and in the streets [of London], 
+    We shall fight in the hills [Somewhere up North]. 
+    We shall never surrender.
+    ```
 
